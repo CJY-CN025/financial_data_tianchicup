@@ -1,0 +1,7 @@
+streamlit
+akshare
+pymongo
+pandas
+numpy
+plotly
+dtaidistance
